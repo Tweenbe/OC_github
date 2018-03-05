@@ -2,7 +2,7 @@
 
 ## ------------- Objectif de l'exercice : -------------##
 * Apprendre à versionner son code en utilisant Git & Github
-* Connaître les étapes indispensables pour la publication et le partage de son code avec une équipe
+* Connaître les étapes indispensables pour la publication et le partage de code
 * Apprendre les bonnes pratiques du travail collaboratif...
 
 ## ------------- Consignes : -------------##
